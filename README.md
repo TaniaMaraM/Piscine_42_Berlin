@@ -95,7 +95,6 @@ Below is an overview of the exercises and projects organized by module.
 
 ### 🚀 **Rush00**
 - **[ft_putchar](Rush00/ft_putchar.c)**  
-- **[ft_putstr](Rush00/ft_putstr.c)**  
 - **[main](Rush00/main.c)**  
 - **[rush01](Rush00/rush01.c)**  
 
